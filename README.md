@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=A855F7&center=true&vCenter=true&width=500&lines= Hi👋, I'm Srisanth G;E.C.E+Undergraduate;Full Stack Developer;IoT+%26+Embedded+Systems+Enthusiast" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Srisanth+G;E.C.E+Undergraduate;Full+Stack+Developer;IoT+%26+Embedded+Systems+Enthusiast"
+    alt="Typing SVG"
+  />
 </p>
+
 
 ## ⚡ About Me
 
